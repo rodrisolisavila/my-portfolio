@@ -1,4 +1,4 @@
-# ruri-portfolio
+# Portfolio - Rodrigo
 
 > Jobs and Projects
 
