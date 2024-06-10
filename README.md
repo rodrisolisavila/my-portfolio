@@ -3,7 +3,7 @@
 > Jobs and Projects
 
 Visit!
-[Portfolio](https://ruriin.github.io/ruri-portfolio/)
+[Portfolio](https://rodrisolisavila.github.io/my-portfolio/)
 
-![alt text](https://raw.githubusercontent.com/Ruriin/ruri-portfolio/master/assets/img/api.miniature.png)
+![portfolio](preview.jpg)
 
